@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a6f59b9-43d2-495c-8002-567e1588841d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ang-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ang-app/src/app/app.component.ts" afterDir="false" />
-    </list>
+    <list default="true" id="8a6f59b9-43d2-495c-8002-567e1588841d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -131,16 +129,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525688098065</updated>
-      <workItem from="1525688099730" duration="1403000" />
+      <workItem from="1525688099730" duration="1718000" />
     </task>
+    <task id="LOCAL-00001" summary="good at work">
+      <created>1525689536152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525689536152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1403000" />
+    <option name="totallyTimeSpent" value="1718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
@@ -167,6 +172,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="good at work" />
+    <option name="LAST_COMMIT_MESSAGE" value="good at work" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ang-app/src/app/app.component.css">
