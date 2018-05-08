@@ -11,7 +11,7 @@ export class UserlistComponent implements OnInit {
 
     {name:'siddharth'},
     {name:'sachin'},
-    {name:'Rohit'}
+    {name:'Rohit' }
 
 
 

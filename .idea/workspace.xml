@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a6f59b9-43d2-495c-8002-567e1588841d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ang-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ang-app/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ang-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ang-app/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ang-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ang-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,17 +43,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routng-app/src/app/home/home.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="userlist.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -65,11 +52,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="userlist.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="user.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routng-app/src/app/user/user.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -77,8 +73,8 @@
       <file leaf-file-name="user.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routng-app/src/app/user/user.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="136">
+              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -138,12 +134,12 @@
         <option value="$PROJECT_DIR$/routng-app/src/app/about/about.component.html" />
         <option value="$PROJECT_DIR$/routng-app/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/routng-app/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.ts" />
         <option value="$PROJECT_DIR$/routng-app/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.html" />
-        <option value="$PROJECT_DIR$/routng-app/src/app/user/user.component.ts" />
         <option value="$PROJECT_DIR$/routng-app/src/app/user/user.component.html" />
         <option value="$PROJECT_DIR$/routng-app/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/routng-app/src/app/user/user.component.ts" />
+        <option value="$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.ts" />
       </list>
     </option>
   </component>
@@ -157,7 +153,7 @@
     <handled-path value="$PROJECT_DIR$/ang-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/routng-app/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -176,63 +172,6 @@
             <path>
               <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
               <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-              <item name="routng-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-              <item name="routng-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-              <item name="routng-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-              <item name="routng-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-              <item name="routng-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-              <item name="routng-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-              <item name="routng-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="userlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siddharth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siddharth" type="462c0819:PsiDirectoryNode" />
-              <item name="routng-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,7 +212,7 @@
       <updated>1525688098065</updated>
       <workItem from="1525688099730" duration="3798000" />
       <workItem from="1525693793109" duration="3194000" />
-      <workItem from="1525755904355" duration="13526000" />
+      <workItem from="1525755904355" duration="13978000" />
     </task>
     <task id="LOCAL-00001" summary="good at work">
       <created>1525689536152</created>
@@ -286,21 +225,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20518000" />
+    <option name="totallyTimeSpent" value="20970000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.26500732" side_tool="true" visible="true" weight="0.36248013" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.29868227" side_tool="true" visible="true" weight="0.36248013" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7349927" visible="true" weight="0.36248013" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.7013177" visible="true" weight="0.36248013" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routng-app/src/app/user/user.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routng-app/src/app/about/about.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -468,7 +400,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.ts">
+    <entry file="file://$PROJECT_DIR$/routng-app/src/app/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -477,18 +409,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routng-app/src/app/user/user.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="136">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routng-app/src/app/home/home.component.html">
+    <entry file="file://$PROJECT_DIR$/routng-app/src/app/user/user.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routng-app/src/app/userlist/userlist.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
