@@ -105,9 +105,9 @@
     <handled-path value="$PROJECT_DIR$/ang-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/routng-app/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-50" />
+    <option name="y" value="94" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
