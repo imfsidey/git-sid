@@ -1,0 +1,11 @@
+
+<div class="container">
+<div  class="tabcontent">
+<h3>Userlist Page</h3>
+
+<ul>
+  <li *ngFor="let user of users" [routerLink]="['detail',user.name]">{{user.name}}</li>
+</ul>
+  <router-outlet></router-outlet>
+</div>
+</div>

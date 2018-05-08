@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  arr=[4,3,6,7,9,8]
+  title = 'app';
 }
